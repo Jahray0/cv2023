@@ -12,6 +12,7 @@
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
 - [ ] Mise en forme des titres (Margin et padding des tites (HTML !))
 - [ ] Changer ou enlever les puces des listes
+- [ ] Voir pour rendre tout ça responsive
 
 ## JavaScript
 

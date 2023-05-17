@@ -51,19 +51,19 @@ a {
 
 h2 {
   text-transform: uppercase;
-  margin-top: 20px;
-  width: 70%;
 }
 
 .left-h2 {
   border-bottom: solid 3px white;
 }
 
-#icon {
-  height: 40px;
+.right-h2 {
+  border-bottom: solid 3px black;
+  width: 72%;
 }
 
-h3 {
+#icon {
+  height: 40px;
 }
 
 li {
