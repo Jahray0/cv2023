@@ -4,6 +4,7 @@
 
 - [ ] Mettre le titre du right-pannel a part comme pour le left-pannel
 - [ ] Utiliser des logo font-awesome pour les icones
+- [ ] Voir si il faut utiliser des balises `<section>` ou `<article>` pour les parties du CV
 
 ## CSS
 
@@ -20,4 +21,4 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v1.0.0
+v1.0.2
