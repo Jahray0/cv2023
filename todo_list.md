@@ -9,6 +9,8 @@
 
 - [ ] Voir pour faire des annimations sympa mais simples
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
+- [ ] Mise en forme des titres (Margin et padding des tites (HTML !))
+- [ ] Changer ou enlever les puces des listes
 
 ## JavaScript
 
