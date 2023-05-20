@@ -44,6 +44,23 @@ p {
   margin: 0 auto;
 }
 
+.fa {
+  width: 50px;
+  padding-right: 20px;
+}
+
+.section-title img {
+  fill: red;
+  color: red;
+  background-color: red;
+  fill: red;
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+}
+
 a {
   color: white;
   text-decoration: none;
