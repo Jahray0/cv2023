@@ -11,10 +11,10 @@
 
 - [ ] Voir pour faire des annimations sympa mais simples
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
-- [ ] Mise en forme des titres (Margin et padding des tites (HTML !))
+- [x] Mise en forme des titres (Margin et padding des tites (HTML !))
 - [ ] Changer ou enlever les puces des listes
 - [ ] Voir pour rendre tout ça responsive
-- [ ] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
+- [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
 
 ## JavaScript
 
@@ -24,4 +24,4 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v1.1.2
+v1.1.3
