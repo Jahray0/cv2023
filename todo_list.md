@@ -3,7 +3,7 @@
 ## HTML
 
 - [x] Mettre le titre du right-pannel a part comme pour le left-pannel
-- [ ] pour eviter le width 102% et 104% mettre le titre et la phtot de profil dans un div différente (photo de profil et liste des skill en dessous (grace au flex) et appliquer le padding uniquement sur la liste des skill et faire de meme sur le left-pannel)
+- [x] pour eviter le width 102% et 104% mettre le titre et la phtot de profil dans un div différente (photo de profil et liste des skill en dessous (grace au flex) et appliquer le padding uniquement sur la liste des skill et faire de meme sur le left-pannel)
 - [x] Utiliser des logo font-awesome pour les icones
 - [ ] Voir si il faut utiliser des balises `<section>` ou `<article>` pour les parties du CV
 
@@ -24,4 +24,4 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v1.1.3
+v1.1.4

@@ -12,6 +12,9 @@
 .container {
   display: flex;
   letter-spacing: 0, 5px;
+  padding: 0px 350px;
+  background-color: grey;
+  height: 100%;
 }
 
 p {
@@ -20,22 +23,22 @@ p {
 
 .left-pannel {
   width: 30%;
-  padding-left: 15px;
   background-color: #413e3e;
   color: white;
 }
 
 .right-pannel {
   width: 70%;
+  background-color: white;
+}
+
+.bottom-pannel {
   padding-left: 15px;
 }
 
 .profil-photo {
   background-color: rgb(117, 197, 230);
   padding: 20px 0px;
-  position: relative;
-  left: -15px;
-  width: 104%;
 }
 
 .profil-photo img {
@@ -53,9 +56,6 @@ p {
   font-size: 22px;
   text-align: center;
   padding: 10px 0px;
-  position: relative;
-  left: -15px;
-  width: 102%;
 }
 
 .fa {
@@ -210,7 +210,7 @@ li {
 
 .experience-years p {
   font-weight: 500;
-  padding-right: 200px;
+  padding-right: 40px;
 }
 
 .fa_chevron {
@@ -220,4 +220,26 @@ li {
   border-radius: 50%;
   padding: 4px 4px;
   margin-right: 10px;
+}
+
+@media screen and (max-width: 1600px) {
+  .container {
+    padding: 0px 200px;
+    background-color: red;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .container {
+    padding: 0;
+  }
+  .experience-years p {
+    padding-right: 15px;
+  }
+}
+
+@media screen and (max-width: 929px) {
+  .right-pannel {
+    background-color: blue;
+  }
 }
