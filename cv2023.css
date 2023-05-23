@@ -157,6 +157,8 @@ li {
 .left-skills {
   display: flex;
   flex-direction: row;
+  font-weight: 700;
+  font-size: 20px;
 }
 
 /* LANGUES */
