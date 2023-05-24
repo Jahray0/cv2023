@@ -16,13 +16,21 @@
 - [ ] Voir pour rendre tout ça responsive (moitié fait faire une version mobile)
 - [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
 
-## JavaScript
+## SEO
+
+- [ ] Mettre des mots clés dans les balises `<meta>` (description, author, etc...)
+- [ ] Remplire toutes les balises alt des images
+- [ ] Faire une analyse de seo avec un outil en ligne
 
 ## React
 
-- [ ] Créer une SPA qui prendra en compte la page du CV
+- [ ] Créer une SPA qui prendra en compte la page du CV + un portfolio
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
+
+v 1.1.9
+
+- ajout du seo dans le markdown
 
 v1.1.8
 
