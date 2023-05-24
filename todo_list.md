@@ -24,4 +24,6 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v1.1.5
+v1.1.7
+
+- cv2023.html renommé en index.html (pour le déploiement sur github pages)
