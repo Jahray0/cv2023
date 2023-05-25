@@ -32,6 +32,13 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
+v v1.1.12
+Note de Colin :
+
+- Centrer les titres sans les logos
+- Mettre un lien sur le Linkedin
+- [x] correction Professionnel !!!
+
 v 1.1.11
 
 - Mise en page de la partie contact/compétances/Soft skills/Langues/Loisirs
