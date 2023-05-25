@@ -9,17 +9,20 @@
 
 ## CSS
 
+- [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
+- [x] Mise en forme des titres (Margin et padding des tites (HTML !))
 - [ ] Voir pour faire des annimations sympa mais simples
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
-- [x] Mise en forme des titres (Margin et padding des tites (HTML !))
 - [ ] Changer ou enlever les puces des listes
-- [ ] Voir pour rendre tout ça responsive (moitié fait faire une version mobile)
-- [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
+- [ ] Voir pour rendre tout ça responsive (moitié fait faire une version mobile) `ça arrive !!!`
+- [ ] Remettre ou ajuster les marges (left/right/top/bottom - pannel)
+- [ ] Faire la partie contact en 2 colonnes
 
 ## SEO
 
+- [x] Remplire toutes les balises alt des images
 - [ ] Mettre des mots clés dans les balises `<meta>` (description, author, etc...)
-- [ ] Remplire toutes les balises alt des images
+- [ ] Refaire la partie head (balise `<title>`, `<meta>`, `<link>`, etc...)
 - [ ] Faire une analyse de seo avec un outil en ligne
 
 ## React
@@ -27,6 +30,10 @@
 - [ ] Créer une SPA qui prendra en compte la page du CV + un portfolio
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
+
+v 1.1.10
+
+- Début de la version mobile
 
 v 1.1.9
 

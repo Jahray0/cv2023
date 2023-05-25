@@ -238,8 +238,35 @@ li {
   }
 }
 
+/*Version Tablette => afficher les menus verticalement*/
 @media screen and (max-width: 929px) {
+  .container {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .left-pannel {
+    width: 100%;
+  }
+
   .right-pannel {
-    background-color: blue;
+    width: 100%;
+  }
+
+  /*Réussire à centrer le titre*/
+  .section-title {
+    width: max-content;
+    display: flex;
+    margin: 0 auto;
+  }
+
+  .right-h2 {
+    width: 100%;
+  }
+
+  .contact-liste {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
   }
 }
