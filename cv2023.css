@@ -78,7 +78,7 @@ p {
   padding-top: 10px;
 }
 
-a {
+.left-pannel a {
   color: white;
   text-decoration: none;
 }
@@ -258,7 +258,12 @@ li {
   .section-title {
     width: max-content;
     display: flex;
+  }
+
+  .left-pannel .section-title {
     margin: 0 auto;
+    position: relative;
+    left: -25px;
   }
 
   .right-h2 {

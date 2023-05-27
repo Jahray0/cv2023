@@ -32,12 +32,18 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v v1.1.12
+v 1.1.13
+
+- position: relative;
+  left: -25px;
+  Sur les titres du left-pannel (pour centrer le texte et non l'ensemble texte + logo)
+
+v 1.1.12
 Note de Colin :
 
-- Centrer les titres sans les logos
-- Mettre un lien sur le Linkedin
+- [x]Centrer les titres sans les logos
 - [x] correction Professionnel !!!
+- Mettre un lien sur le Linkedin
 
 v 1.1.11
 
