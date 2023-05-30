@@ -32,6 +32,10 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
+v 1.1.15
+
+- voir pour faire quelque chose avec le titre (display none ou autre)
+
 v 1.1.14
 
 - Changement de la couleurs de logo dans le left pannel
