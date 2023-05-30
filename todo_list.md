@@ -42,8 +42,8 @@ v 1.1.12
 Note de Colin :
 
 - [x]Centrer les titres sans les logos
-- [x] correction Professionnel !!!
-- Mettre un lien sur le Linkedin
+- [x] correction Professionnelles !!!
+- [x] Mettre un lien sur le Linkedin
 
 v 1.1.11
 
