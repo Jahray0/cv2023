@@ -11,11 +11,11 @@
 
 - [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
 - [x] Mise en forme des titres (Margin et padding des tites (HTML !))
-- [ ] Remonter la partie avec le nom ou ... faire disparaitre le nom et le faire apparaire en haut
+- [x] Remonter la partie avec le nom ou ... faire disparaitre le nom et le faire apparaire en haut
 - [ ] Voir pour faire des annimations sympa mais simples
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
 - [ ] Changer ou enlever les puces des listes
-- [ ] Voir pour rendre tout ça responsive (moitié fait faire une version mobile) `ça arrive !!!`
+- [ ] Voir pour rendre tout ça responsive (moitié fait faire une version mobile) `C'est pas mal !!!`
 - [ ] Remettre ou ajuster les marges (left/right/top/bottom - pannel)
 - [ ] Faire la partie contact en 2 colonnes
 
@@ -31,6 +31,11 @@
 - [ ] Créer une SPA qui prendra en compte la page du CV + un portfolio
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
+
+v 1.1.16
+
+- v v1.1.15 ok avec display none sur le titre du left-pannel
+- ajout de la balise meta description => mettre une description du cv sans fautes d'orthographe
 
 v 1.1.15
 

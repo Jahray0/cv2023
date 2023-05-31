@@ -18,6 +18,10 @@
   min-width: 350px;
 }
 
+.profil-name-mobile {
+  display: none;
+}
+
 p {
   font-weight: 100;
 }
@@ -46,7 +50,7 @@ p {
   width: 80%;
   max-width: 250px;
   border-radius: 50%;
-  border: 5px solid #b31414;
+  border: 5px solid #134485;
   display: block;
   margin: 0 auto;
 }
@@ -226,7 +230,7 @@ li {
 @media screen and (max-width: 1600px) {
   .container {
     padding: 0px 200px;
-    background-color: red;
+    background-color: grey;
   }
 }
 
@@ -241,6 +245,23 @@ li {
 
 /*Version Tablette => afficher les menus verticalement*/
 @media screen and (max-width: 929px) {
+  .profil-name {
+    display: none;
+  }
+
+  .profil-name-mobile {
+    display: flex;
+    background-color: #413e3e;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px 0px;
+  }
+
+  .profil-name-mobile h1 {
+    margin: 0 auto;
+  }
+
   .container {
     flex-direction: column;
     padding: 0;
