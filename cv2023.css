@@ -11,7 +11,7 @@
 
 .container {
   display: flex;
-  letter-spacing: 0, 5px;
+  letter-spacing: 0.5px;
   padding: 0px 350px;
   background-color: grey;
   height: 100%;
@@ -177,7 +177,7 @@ li {
 }
 
 .language-bar {
-  width: 30%;
+  width: 60%;
   height: 10px;
   background-color: #666666;
 }
@@ -199,13 +199,16 @@ li {
   width: 60%;
 }
 
+.profil-title p {
+  text-align: justify;
+  padding-right: 15px;
+}
+
 .experience-heading {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 10px 0px;
-  /* voire ce que donnes les boites 
-  c'est pas tout a fait alligne*/
 }
 
 .experience-title {
@@ -275,10 +278,13 @@ li {
     width: 100%;
   }
 
-  /*Réussire à centrer le titre*/
   .section-title {
     width: max-content;
     display: flex;
+  }
+
+  .bottom-pannel {
+    padding-bottom: 15px;
   }
 
   .left-pannel .section-title {
