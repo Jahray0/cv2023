@@ -33,6 +33,10 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
+v 1.2.1 SEO
+
+- Redimensionnement de la photo de profil
+
 v 1.2.0
 
 - corrections mineurs sur de la mise en page et descriptions de postes
