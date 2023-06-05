@@ -33,9 +33,9 @@
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
 
-v 1.2.2.1
+v 1.2.2.2
 
-- max height sur les logos
+- height auto les logos
 
 v 1.2.2
 
