@@ -12,6 +12,8 @@
 
 - [ ] Voir pour faire des annimations sympa mais simples
 - [ ] Survol de la photo qui fait apparaitre un texte (exemple : `Je suis un développeur web`)
+- [ ] En version Mobile, voir pour enlever le padding sur les dates des expériences et les formations
+      (peut-etre mettre un max-width sur les h3 situés a gauche)
 - [x] Mettre le meme font weight sur les titres et les sous-titres (Left-pannel)
 - [x] Mise en forme des titres (Margin et padding des tites (HTML !))
 - [x] Remonter la partie avec le nom ou ... faire disparaitre le nom et le faire apparaire en haut
@@ -32,6 +34,10 @@
 - [ ] Créer une SPA qui prendra en compte la page du CV + un portfolio
 - [ ] Utiliser un composant pour les compétances (en mettant le nombre en parametre)
 - [ ] Pouvoir changer de pages avec un menu horizontal du style de je ne sais plus quel site (une image ou un texte souligné d'un petit trait en dessous)
+
+v 1.3.1
+
+- Ajout des liens Github pages pour les projets (1, 2 et 3)
 
 v 1.3.0
 
