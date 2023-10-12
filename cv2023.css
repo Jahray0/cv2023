@@ -134,28 +134,8 @@ li {
   padding-right: 20px;
 }
 
-.htmlcss {
-  width: 90%;
-}
-
-.js {
-  width: 80%;
-}
-
-.react {
-  width: 70%;
-}
-
-.mongo {
-  width: 60%;
-}
-
-.seo {
-  width: 90%;
-}
-
-.node {
-  width: 60%;
+.skills-item {
+  padding-bottom: 15px;
 }
 
 /*SOFT SKILLS */
@@ -333,6 +313,13 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+  }
+
+  .left-comp {
+    text-align: center;
+  }
+  .right-comp {
+    text-align: center;
   }
 }
 
